@@ -1,0 +1,7 @@
+HospitalManagementsysstem.LoginPage
+HospitalManagementsysstem.LoginPage$3
+HospitalManagementsysstem.LoginPage$4
+HospitalManagementsysstem.LoginPage$1
+HospitalManagementsysstem.LoginPage$2
+HospitalManagementsysstem.LoginPage$5
+HospitalManagementsysstem.LoginPage$6
