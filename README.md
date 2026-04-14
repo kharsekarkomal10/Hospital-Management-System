@@ -58,6 +58,21 @@ Update database credentials in your code
 Run the main class from your IDE
 
 
+🖥️ Screenshots
+
+Add screenshots of:
+
+Loading Page
+
+
+
+
+Login Page
+Admin Dashboard
+Receptionist Panel
+Doctor Panel
+
+
 
 📂 Project Structure
 HospitalManagementSystem/
