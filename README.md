@@ -12,17 +12,23 @@ The system is divided into three main modules:
 Each role has specific functionalities to ensure secure and efficient management of hospital activities.
 
 🧩 System Modules
+
 🧑‍💼 Administrator
+
 Manage doctor records (Add / Update / Delete / Search)
 Manage system users
 Monitor overall system data
 Maintain database integrity
+
 🧾 Receptionist
+
 Register new patients
 Manage patient details
 Schedule and manage appointments
 Handle front-desk operations
+
 👨‍⚕️ Doctor
+
 View assigned patients
 Check appointment schedules
 Update patient diagnosis and treatment details
