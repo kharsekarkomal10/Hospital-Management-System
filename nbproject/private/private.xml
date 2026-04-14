@@ -3,19 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/RecordPatient.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/AdminDashboard.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/LoginPage.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/OPD.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/PatientDetails.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/DepartmentDetails.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/LoadingPage.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/AppointmentDetails.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/ReceptionDashboard.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/AppointmentDetails.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/DoctorDetails.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/AdmittedList.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/Receptiondetails.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/DoctorDashboard.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/Appointment.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/PrescriptionDetails.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/AdmitPatient.java</file>
-            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/HospitalManagementSysstem.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/LowerStaff.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/Documents/NetBeansProjects/HospitalManagementSysstem/src/hospitalmanagementsysstem/DDetails.java</file>
         </group>
     </open-files>
 </project-private>

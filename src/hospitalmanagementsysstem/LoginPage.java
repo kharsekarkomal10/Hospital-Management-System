@@ -66,21 +66,18 @@ public class LoginPage extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
         jPanel1 = new javax.swing.JPanel();
         jLabel2 = new javax.swing.JLabel();
-        jDesktopPane1 = new javax.swing.JDesktopPane();
-        jButton1 = new javax.swing.JButton();
         jLabel1 = new javax.swing.JLabel();
         jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Lenovo\\Downloads\\htmlmovie\\BC1.png"));
         ;
         jLabel4 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setUndecorated(true);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel2.setBackground(new java.awt.Color(0, 153, 204,70));
+        jPanel2.setBackground(new java.awt.Color(204, 255, 255,100));
 
         txtUsername.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
-        txtUsername.setForeground(new java.awt.Color(0, 102, 153));
+        txtUsername.setForeground(new java.awt.Color(0, 255, 255));
         txtUsername.setText("UserName:-");
 
         txtUsername1.setBackground(new java.awt.Color(204, 255, 255));
@@ -93,7 +90,7 @@ public class LoginPage extends javax.swing.JFrame {
         });
 
         txtPassword.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
-        txtPassword.setForeground(new java.awt.Color(0, 102, 153));
+        txtPassword.setForeground(new java.awt.Color(153, 255, 255));
         txtPassword.setText("Password:-");
 
         txtPass.setBackground(new java.awt.Color(204, 255, 255));
@@ -105,13 +102,13 @@ public class LoginPage extends javax.swing.JFrame {
         });
 
         txtUserType.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
-        txtUserType.setForeground(new java.awt.Color(0, 102, 153));
+        txtUserType.setForeground(new java.awt.Color(204, 255, 255));
         txtUserType.setText("User Type:-");
 
         cbUserType1.setBackground(new java.awt.Color(204, 255, 255));
         cbUserType1.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         cbUserType1.setForeground(new java.awt.Color(255, 255, 255));
-        cbUserType1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Receptionist", "Doctor", " " }));
+        cbUserType1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Receptionist", "Doctor", "Administrator" }));
         cbUserType1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cbUserType1ActionPerformed(evt);
@@ -130,6 +127,7 @@ public class LoginPage extends javax.swing.JFrame {
 
         jLabel3.setBackground(new java.awt.Color(255, 255, 255));
         jLabel3.setFont(new java.awt.Font("Tw Cen MT Condensed Extra Bold", 1, 36)); // NOI18N
+        jLabel3.setForeground(new java.awt.Color(153, 255, 204));
         jLabel3.setText("STAFF & ADMIN LOGIN");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
@@ -183,7 +181,7 @@ public class LoginPage extends javax.swing.JFrame {
                 .addGap(56, 56, 56))
         );
 
-        getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(860, 230, 470, 440));
+        getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 210, 470, 440));
 
         jPanel1.setBackground(new java.awt.Color(0, 102, 153,180));
 
@@ -210,41 +208,11 @@ public class LoginPage extends javax.swing.JFrame {
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 70, 920, 70));
 
-        jDesktopPane1.setBackground(new java.awt.Color(0, 102, 153));
-
-        jButton1.setBackground(new java.awt.Color(0, 102, 153));
-        jButton1.setFont(new java.awt.Font("Tw Cen MT Condensed", 1, 24)); // NOI18N
-        jButton1.setForeground(new java.awt.Color(204, 255, 255));
-        jButton1.setText("X");
-        jButton1.setToolTipText("");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
-            }
-        });
-
-        jDesktopPane1.setLayer(jButton1, javax.swing.JLayeredPane.DEFAULT_LAYER);
-
-        javax.swing.GroupLayout jDesktopPane1Layout = new javax.swing.GroupLayout(jDesktopPane1);
-        jDesktopPane1.setLayout(jDesktopPane1Layout);
-        jDesktopPane1Layout.setHorizontalGroup(
-            jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jDesktopPane1Layout.createSequentialGroup()
-                .addGap(0, 1487, Short.MAX_VALUE)
-                .addComponent(jButton1))
-        );
-        jDesktopPane1Layout.setVerticalGroup(
-            jDesktopPane1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jButton1, javax.swing.GroupLayout.PREFERRED_SIZE, 30, Short.MAX_VALUE)
-        );
-
-        getContentPane().add(jDesktopPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1530, 30));
-
         jLabel1.setBackground(new java.awt.Color(0, 102, 153));
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Lenovo\\Downloads\\10.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/background.png"))); // NOI18N
         jLabel1.setAutoscrolls(true);
         jLabel1.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 102, 153), 2, true));
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1530, 820));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1610, 730));
         getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(44, 4, 1480, 20));
 
         pack();
@@ -279,11 +247,14 @@ public class LoginPage extends javax.swing.JFrame {
 
                 JOptionPane.showMessageDialog(this, "Login Successful!");
 
-                if (userType.equals("Receptionist")) {
-                    new ReceptionDashboard().setVisible(true);
-                }
+               if (userType.equals("Receptionist")) {
+                   new ReceptionDashboard().setVisible(true);
+                    }
                 else if (userType.equals("Doctor")) {
-                    new DoctorDashboard().setVisible(true);
+                   new DoctorDashboard().setVisible(true);
+                    }
+                    else if (userType.equals("Administrator")) {
+               new AdminDashboard().setVisible(true);
                 }
 
                 this.dispose();
@@ -313,19 +284,6 @@ public class LoginPage extends javax.swing.JFrame {
     private void txtPassActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPassActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_txtPassActionPerformed
-
-    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-                int a = JOptionPane.showConfirmDialog(
-        this, 
-        "Do you want to exit?", 
-        "Exit", 
-        JOptionPane.YES_NO_OPTION
-    );
-
-    if (a == JOptionPane.YES_OPTION) {
-        System.exit(0);
-    }     // TODO add your handling code here:
-    }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -364,9 +322,7 @@ public class LoginPage extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JComboBox<String> cbUserType1;
-    private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
-    private javax.swing.JDesktopPane jDesktopPane1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
