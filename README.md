@@ -64,15 +64,49 @@ Add screenshots of:
 
 Loading Page
 
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/1.png)
 
-
+------------------------------------------------------------------------------------
 
 Login Page
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/2.png)
+
+--------------------------------------------------------
+
 Admin Dashboard
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/7.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/8.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/9.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/10.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/11.png)
+
+---------------------------------------------------------
+
 Receptionist Panel
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/3.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/4.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/5.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/6.png)
+
 Doctor Panel
 
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/12.png)
 
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/13.png)
+
+![image alt](https://github.com/kharsekarkomal10/Hospital-Management-System/blob/46464f5163bb888c2dfe146043ef83425785ff98/14.png)
+
+________________________________________________________________________________________________________________________________________
 
 📂 Project Structure
 HospitalManagementSystem/
